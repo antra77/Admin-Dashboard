@@ -55,11 +55,7 @@ Enhance your data visualization with 8 fully customizable and functional charts,
 
 ## Live Website
 
-Experience the full capabilities of my React Admin Dashboard by visiting the live website: [React Admin Dashboard Live](#)
-
-## Live Demo Video
-
-For a comprehensive overview and live demonstration of the dashboard in action, watch my demo video: ![Live Demo]()
+Experience the full capabilities of my React Admin Dashboard by visiting the live website: [React Admin Dashboard Live](https://admin-dashboard-lemon-chi.vercel.app/)
 
 ## Getting Started
 
